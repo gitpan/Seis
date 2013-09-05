@@ -1,0 +1,6 @@
+[PL_files]
+bin/seis.c.PL="bin/seis.c"
+
+[build]
+build_class = "builder::MyBuilder"
+
