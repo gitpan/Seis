@@ -82,19 +82,16 @@
       "IO::Spec::Win32" : {
          "file" : "lib/Seis/IO/Path.pm"
       },
-      "Main" : {
-         "file" : "lib/Seis/Compiler.pm"
-      },
       "Perl6::PVIP" : {
          "file" : "lib/Perl6/PVIP.pm",
-         "version" : "0.10"
+         "version" : "0.11"
       },
       "Perl6::PVIP::Node" : {
          "file" : "lib/Perl6/PVIP/Node.pm"
       },
       "Seis" : {
          "file" : "lib/Seis.pm",
-         "version" : "0.10"
+         "version" : "0.11"
       },
       "Seis::Any" : {
          "file" : "lib/Seis/Any.pm"
@@ -231,7 +228,7 @@
          "web" : "https://github.com/perl-seis/Seis"
       }
    },
-   "version" : "0.10",
+   "version" : "0.11",
    "x_contributors" : [
       "_why <why@whytheluckystiff.net>",
       "nddrylliog <nddrylliog@gmail.com>",

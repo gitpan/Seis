@@ -39,16 +39,14 @@ provides:
     file: lib/Seis/IO/Path.pm
   IO::Spec::Win32:
     file: lib/Seis/IO/Path.pm
-  Main:
-    file: lib/Seis/Compiler.pm
   Perl6::PVIP:
     file: lib/Perl6/PVIP.pm
-    version: 0.10
+    version: 0.11
   Perl6::PVIP::Node:
     file: lib/Perl6/PVIP/Node.pm
   Seis:
     file: lib/Seis.pm
-    version: 0.10
+    version: 0.11
   Seis::Any:
     file: lib/Seis/Any.pm
   Seis::Array:
@@ -148,7 +146,7 @@ resources:
   bugtracker: https://github.com/perl-seis/Seis/issues
   homepage: https://github.com/perl-seis/Seis
   repository: git://github.com/perl-seis/Seis.git
-version: 0.10
+version: 0.11
 x_contributors:
   - '_why <why@whytheluckystiff.net>'
   - 'nddrylliog <nddrylliog@gmail.com>'
