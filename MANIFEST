@@ -7,6 +7,7 @@ author/import-roast.pl
 author/pvip-const-xs.pl
 author/roast.pl
 bin/seis.c.PL
+bin/seis.pod
 builder/MyBuilder.pm
 cpanfile
 eg/lwp.pl

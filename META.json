@@ -19,7 +19,8 @@
          "share",
          "eg",
          "examples",
-         "author"
+         "author",
+         "builder"
       ]
    },
    "prereqs" : {
@@ -84,14 +85,14 @@
       },
       "Perl6::PVIP" : {
          "file" : "lib/Perl6/PVIP.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Perl6::PVIP::Node" : {
          "file" : "lib/Perl6/PVIP/Node.pm"
       },
       "Seis" : {
          "file" : "lib/Seis.pm",
-         "version" : "0.11"
+         "version" : "0.12"
       },
       "Seis::Any" : {
          "file" : "lib/Seis/Any.pm"
@@ -228,7 +229,7 @@
          "web" : "https://github.com/perl-seis/Seis"
       }
    },
-   "version" : "0.11",
+   "version" : "0.12",
    "x_contributors" : [
       "_why <why@whytheluckystiff.net>",
       "nddrylliog <nddrylliog@gmail.com>",
